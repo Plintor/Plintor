@@ -5,7 +5,7 @@
 
 📂・**Latest soon coming project [Soon](Soon)**
 
-✔️・**Latest open source project [delta](https://github.com/Plintor/delta)**
+✔️・**Latest open source project [delta](https://github.com/Plintor)**
 
 <div align="center">
   <h2 align="center">🔴 Statistics</h2>
