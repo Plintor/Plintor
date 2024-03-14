@@ -5,7 +5,7 @@
 
 📂・**Latest soon coming project [Soon](Soon)**
 
-✔️・**Latest open source project [delta](https://github.com/Plintor)**
+✔️・**Latest open source project [SmartAutoPassword](https://github.com/Plintor/SmartAutoPassword)**
 
 <div align="center">
   <h2 align="center">🔴 Statistics</h2>
